@@ -1,0 +1,10 @@
+C:\Users\hwk66\source\repos\FacadePattern\FacadePattern\bin\Debug\FacadePattern.exe.config
+C:\Users\hwk66\source\repos\FacadePattern\FacadePattern\bin\Debug\FacadePattern.exe
+C:\Users\hwk66\source\repos\FacadePattern\FacadePattern\bin\Debug\FacadePattern.pdb
+C:\Users\hwk66\source\repos\FacadePattern\FacadePattern\obj\Debug\FacadePattern.csprojResolveAssemblyReference.cache
+C:\Users\hwk66\source\repos\FacadePattern\FacadePattern\obj\Debug\FacadePattern.Form1.resources
+C:\Users\hwk66\source\repos\FacadePattern\FacadePattern\obj\Debug\FacadePattern.Properties.Resources.resources
+C:\Users\hwk66\source\repos\FacadePattern\FacadePattern\obj\Debug\FacadePattern.csproj.GenerateResource.Cache
+C:\Users\hwk66\source\repos\FacadePattern\FacadePattern\obj\Debug\FacadePattern.csproj.CoreCompileInputs.cache
+C:\Users\hwk66\source\repos\FacadePattern\FacadePattern\obj\Debug\FacadePattern.exe
+C:\Users\hwk66\source\repos\FacadePattern\FacadePattern\obj\Debug\FacadePattern.pdb

@@ -1,0 +1,10 @@
+C:\Users\hwk66\source\repos\Singleton_Pattern\Singleton_Pattern\bin\Debug\Singleton_Pattern.exe.config
+C:\Users\hwk66\source\repos\Singleton_Pattern\Singleton_Pattern\bin\Debug\Singleton_Pattern.exe
+C:\Users\hwk66\source\repos\Singleton_Pattern\Singleton_Pattern\bin\Debug\Singleton_Pattern.pdb
+C:\Users\hwk66\source\repos\Singleton_Pattern\Singleton_Pattern\obj\Debug\Singleton_Pattern.csprojResolveAssemblyReference.cache
+C:\Users\hwk66\source\repos\Singleton_Pattern\Singleton_Pattern\obj\Debug\Singleton_Pattern.Form1.resources
+C:\Users\hwk66\source\repos\Singleton_Pattern\Singleton_Pattern\obj\Debug\Singleton_Pattern.Properties.Resources.resources
+C:\Users\hwk66\source\repos\Singleton_Pattern\Singleton_Pattern\obj\Debug\Singleton_Pattern.csproj.GenerateResource.Cache
+C:\Users\hwk66\source\repos\Singleton_Pattern\Singleton_Pattern\obj\Debug\Singleton_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\hwk66\source\repos\Singleton_Pattern\Singleton_Pattern\obj\Debug\Singleton_Pattern.exe
+C:\Users\hwk66\source\repos\Singleton_Pattern\Singleton_Pattern\obj\Debug\Singleton_Pattern.pdb
